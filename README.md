@@ -13,5 +13,9 @@ https://youtube.googleapis.com/youtube/v3/search?
 # Heroku:
 https://health-plan-web-app.herokuapp.com/
 # Web App Outlook:
+## Main page:
 <img width="918" alt="initial_page" src="https://user-images.githubusercontent.com/93515126/210743961-1f352fae-8d5a-4367-9665-e75dca96bfa8.png">
-
+## Home page:
+<img width="905" alt="home" src="https://user-images.githubusercontent.com/93515126/210744576-59572201-4ef3-4995-9a18-01bcee321e1d.png">
+## Profile page:
+<img width="918" alt="profile" src="https://user-images.githubusercontent.com/93515126/210744959-f0961749-fef3-46eb-9105-fc7217cfa11f.png">
