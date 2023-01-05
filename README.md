@@ -19,3 +19,5 @@ https://health-plan-web-app.herokuapp.com/
 <img width="905" alt="home" src="https://user-images.githubusercontent.com/93515126/210744576-59572201-4ef3-4995-9a18-01bcee321e1d.png">
 ## Profile page:
 <img width="918" alt="profile" src="https://user-images.githubusercontent.com/93515126/210744959-f0961749-fef3-46eb-9105-fc7217cfa11f.png">
+## BMI result page:
+<img width="922" alt="bmi_result" src="https://user-images.githubusercontent.com/93515126/210745780-d3e6342e-0b07-4cde-b0ef-e1225215737c.png">
