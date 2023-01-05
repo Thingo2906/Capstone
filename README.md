@@ -1,3 +1,4 @@
+
 # Capstone-1
 ## API Using:
 - Used the fitness calculator API to calculate the BMI, calculate the daily calorie requirement for different goals:
