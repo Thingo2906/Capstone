@@ -10,6 +10,8 @@ https://fitness-calculator.p.rapidapi.com/bmi
 https://api.spoonacular.com/recipes/random?
 - Used the Youtube API to show some favorite videos related to eating healthy. 
 https://youtube.googleapis.com/youtube/v3/search?
-## Heroku:
+# Heroku:
 https://health-plan-web-app.herokuapp.com/
+# Web App Outlook:
+<img width="918" alt="initial_page" src="https://user-images.githubusercontent.com/93515126/210743961-1f352fae-8d5a-4367-9665-e75dca96bfa8.png">
 
