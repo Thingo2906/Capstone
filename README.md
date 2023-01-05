@@ -10,6 +10,13 @@ https://fitness-calculator.p.rapidapi.com/bmi
 https://api.spoonacular.com/recipes/random?
 - Used the Youtube API to show some favorite videos related to eating healthy. 
 https://youtube.googleapis.com/youtube/v3/search?
+
+# Technology Stack:
+- Frontend: HTML5, CSS3, ES6, JavaScript
+- Backend: Python, Flask, SQLAlchemy, Postgres
+- Libraries & modules: WTForms, Bcrypt, requests, unittest
+- Templating engine: Jinja
+- Cloud service platform: Heroku
 # Heroku:
 https://health-plan-web-app.herokuapp.com/
 # Web App Outlook:
